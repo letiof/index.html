@@ -1,0 +1,36 @@
+        body {
+        
+        background-color: rgb(251, 208, 239);
+        color: black;
+    }
+    h1 {
+
+         text-align: center;
+         color: rgb(244, 50, 157);
+    }
+    
+        
+    p {
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+    }
+
+    .praia {
+        
+        width: 335px;
+        height: 200px;
+        border: 2px solid rgb(244, 50, 157);
+        border-radius: 30px; 
+        display: block;      
+    }   
+
+
+    table {
+        font-style: oblique;
+        width: 10%;
+        border: 4px solid rgb(244, 50, 157);
+        border-radius: 30px;
+        margin-top:20px;
+        font-size: 35px;
+
+    }   
